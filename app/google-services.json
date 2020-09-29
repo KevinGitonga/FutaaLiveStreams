@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "148111263267",
+    "firebase_url": "https://futaa-soccer.firebaseio.com",
+    "project_id": "futaa-soccer",
+    "storage_bucket": "futaa-soccer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148111263267:android:cfa1119eeac6d589f05396",
+        "android_client_info": {
+          "package_name": "ke.co.ipandasoft.futaasoccerlivestreams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148111263267-n1l8cm6sjupk7270a0blbkp6j1b58lqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN2l7Qe0TsSl2GwdnZM4Qsrw9aXOmxu8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148111263267-n1l8cm6sjupk7270a0blbkp6j1b58lqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

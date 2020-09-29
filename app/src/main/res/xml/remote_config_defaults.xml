@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>server_base_url</key>
+        <value>dummy_url</value>
+    </entry>
+</defaultsMap>

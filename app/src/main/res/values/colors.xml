@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="colorPrimary">#183473</color>
+    <color name="colorPrimaryDark">#0a2764</color>
+    <color name="colorAccent">#5677fc</color>
+    <color name="loadingColor">#DEDEDE</color>
+
+    <color name="app_background">#FFFFFF</color>
+    <color name="header">#212121</color>
+    <color name="text_default">#808080</color>
+    <color name="progress">#f3f3f3</color>
+    <color name="secondary_background">#EAEAEB</color>
+    <color name="white">#ffffff</color>
+    <color name="color_gray">#9a9a9a</color>
+
+    <color name="color_gray_translucent">#5000</color>
+    <color name="material_blue_500">#5677fc</color>
+
+    <!-- title TRANSLUCENT BACKGROUND-->
+    <color name="color_title_bg">#CCFFFFFF</color>
+    <!-- Default background color-->
+    <color name="backgroundColor">#EEEEEE</color>
+
+    <!-- white -->
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_black">#000000</color>
+
+    <color name="color_blue">#87CEEB</color>
+
+    <!-- item Title color -->
+    <color name="color_item_title">#000000</color>
+    <color name="overlay_dark_20">#33000000</color>
+
+    <color name="overlay_dark_40">#66000000</color>
+    <color name="overlay_dark_90">#e6000000</color>
+    <color name="overlay_dark_50">#b3000000</color>
+
+</resources>

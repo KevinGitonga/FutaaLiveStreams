@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/todayGames"
+        android:title="@string/menu_today_games"
+        android:icon="@drawable/ic_soccer_livestreams"/>
+
+    <item
+        android:id="@+id/highlights"
+        android:title="@string/menu_highlights"
+        android:icon="@drawable/ic_upcoming_matches"/>
+
+    <item
+        android:id="@+id/settings"
+        android:title="@string/menu_settings"
+        android:icon="@drawable/ic_app_settings"/>
+
+</menu>
