@@ -17,7 +17,7 @@ An example of Live soccer streaming Android Application powered by latest techno
 
 This Application is for Test and personal use only it is Against google play store terms of service to publish Applications that infringe on others Copyright.
 I am in no way responsible for your actions incase you think otherwise.
-The Logos for the teams are only used for demonstration purposes are Copyrighted to the respective club owners.
+The Logos and drawables for the teams are only used for demonstration purposes and are Copyrighted to the respective club owners.
 
 ## License
 Copyright 2020 KEVIN GITONGA
